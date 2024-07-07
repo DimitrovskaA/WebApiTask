@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Task_Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\swiftmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\swiftmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\data\\swiftmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\data\\swiftmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\controllers\\swiftmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\controllers\\swiftmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\task_bank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\task_bank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\task_bank.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\task_bank.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|c:\\users\\admin\\desktop\\task_bank\\task_bank\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0885B209-9B40-4582-BA35-614E2102E60E}|Task_Bank\\Task_Bank.csproj|solutionrelative:task_bank\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwiftMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Data\\SwiftMessage.cs",
+              "RelativeDocumentMoniker": "Task_Bank\\Data\\SwiftMessage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Data\\SwiftMessage.cs",
+              "RelativeToolTip": "Task_Bank\\Data\\SwiftMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:51:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task_Bank.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Task_Bank.http",
+              "RelativeDocumentMoniker": "Task_Bank\\Task_Bank.http",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Task_Bank.http",
+              "RelativeToolTip": "Task_Bank\\Task_Bank.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-07T13:23:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task_Bank.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Task_Bank.csproj",
+              "RelativeDocumentMoniker": "Task_Bank\\Task_Bank.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Task_Bank.csproj",
+              "RelativeToolTip": "Task_Bank\\Task_Bank.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T22:11:22.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwiftMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Controllers\\SwiftMessageController.cs",
+              "RelativeDocumentMoniker": "Task_Bank\\Controllers\\SwiftMessageController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Controllers\\SwiftMessageController.cs",
+              "RelativeToolTip": "Task_Bank\\Controllers\\SwiftMessageController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T00:04:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task_Bank\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task_Bank\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T22:12:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\Program.cs",
+              "RelativeToolTip": "Task_Bank\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:12:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwiftMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\SwiftMessageService.cs",
+              "RelativeDocumentMoniker": "Task_Bank\\SwiftMessageService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\SwiftMessageService.cs",
+              "RelativeToolTip": "Task_Bank\\SwiftMessageService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:55:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_Bank\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\appsettings.json",
+              "RelativeToolTip": "Task_Bank\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T22:11:43.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\libman.json",
+              "RelativeDocumentMoniker": "Task_Bank\\libman.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\libman.json",
+              "RelativeToolTip": "Task_Bank\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T22:48:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\nlog.config",
+              "RelativeDocumentMoniker": "Task_Bank\\nlog.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\nlog.config",
+              "RelativeToolTip": "Task_Bank\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-07T19:51:12.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\nlog.config",
+              "RelativeDocumentMoniker": "Task_Bank\\nlog.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Task_Bank\\Task_Bank\\nlog.config",
+              "RelativeToolTip": "Task_Bank\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-06T23:53:52.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

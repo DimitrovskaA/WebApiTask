@@ -1,0 +1,6 @@
+@Task_Bank_HostAddress = http://localhost:5260
+
+GET {{Task_Bank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
